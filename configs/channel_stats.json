@@ -1,6 +1,20 @@
 {
-  "timestamp": "2025-01-06T14:15:59.804198",
+  "timestamp": "2025-01-06T14:23:48.804569",
   "channels": [
+    {
+      "url": "https://t.me/s/An0nymousTeam",
+      "enabled": false,
+      "metrics": {
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null
+      }
+    },
     {
       "url": "https://t.me/s/KevinZakarian",
       "enabled": false,
@@ -22,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.38,
-        "last_success": "2025-01-06T14:15:58.747645"
+        "overall_score": 89.15,
+        "last_success": "2025-01-06T14:23:47.420294"
       }
     },
     {
@@ -36,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.82,
-        "last_success": "2025-01-06T14:15:59.182744"
+        "overall_score": 92.58,
+        "last_success": "2025-01-06T14:23:48.017232"
       }
     },
     {
@@ -50,11 +64,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.46,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.75,
-        "last_success": "2025-01-06T14:15:59.668254"
+        "overall_score": 97.56,
+        "last_success": "2025-01-06T14:23:48.624984"
       }
     },
     {
@@ -64,11 +78,11 @@
         "total_configs": 20,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.05,
-        "last_success": "2025-01-06T14:15:59.802402"
+        "overall_score": 90.99,
+        "last_success": "2025-01-06T14:23:48.802802"
       }
     }
   ]
