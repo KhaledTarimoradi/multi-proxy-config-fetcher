@@ -47,8 +47,8 @@ class ProxyConfig:
     def __init__(self):
         # List of channels or URLs to fetch proxy configurations from
         self.SOURCE_URLS = [
-            ChannelConfig("https://t.me/s/An0nymousTeam"),
-            ChannelConfig("https://t.me/s/KevinZakarian"),
+            ChannelConfig("https://t.me/An0nymousTeam"),
+            ChannelConfig("https://t.me/KevinZakarian"),
 
         ]
 
