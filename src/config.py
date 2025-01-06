@@ -49,10 +49,7 @@ class ProxyConfig:
         self.SOURCE_URLS = [
             ChannelConfig("https://t.me/s/An0nymousTeam"),
             ChannelConfig("https://t.me/s/KevinZakarian"),
-            ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/freewireguard"),
-            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub")
+
         ]
 
         # Minimum and maximum number of configurations per protocol
