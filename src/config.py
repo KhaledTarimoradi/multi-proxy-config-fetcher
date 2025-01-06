@@ -47,8 +47,7 @@ class ProxyConfig:
     def __init__(self):
         # List of channels or URLs to fetch proxy configurations from
         self.SOURCE_URLS = [
-            ChannelConfig("https://speedysho.com/api/v1/client/subscribe?token=622809d7f18e888d14b85b7fb882a08c"),
-            ChannelConfig("https://iserver.store/KevinVPN.json"),
+            ChannelConfig("https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare"),       
             ChannelConfig("https://t.me/s/An0nymousTeam"),
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
