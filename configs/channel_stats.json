@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-07T21:17:05.754870",
+  "timestamp": "2025-01-07T22:17:07.714669",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.37,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.95,
-        "last_success": "2025-01-07T21:17:04.758749"
+        "overall_score": 92.98,
+        "last_success": "2025-01-07T22:17:06.433122"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.69,
-        "last_success": "2025-01-07T21:17:05.185056"
+        "overall_score": 89.49,
+        "last_success": "2025-01-07T22:17:06.993171"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.4,
-        "last_success": "2025-01-07T21:17:05.651434"
+        "overall_score": 96.25,
+        "last_success": "2025-01-07T22:17:07.558531"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.6,
-        "last_success": "2025-01-07T21:17:05.753089"
+        "overall_score": 93.52,
+        "last_success": "2025-01-07T22:17:07.712843"
       }
     }
   ]
