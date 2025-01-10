@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-10T09:19:29.563868",
+  "timestamp": "2025-01-10T10:19:18.971524",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.4,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.9,
-        "last_success": "2025-01-10T09:19:28.631194"
+        "overall_score": 88.04,
+        "last_success": "2025-01-10T10:19:17.944409"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.11,
-        "last_success": "2025-01-10T09:19:29.061169"
+        "overall_score": 89.09,
+        "last_success": "2025-01-10T10:19:18.393222"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.18,
-        "last_success": "2025-01-10T09:19:29.521401"
+        "overall_score": 95.19,
+        "last_success": "2025-01-10T10:19:18.844901"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.69,
-        "last_success": "2025-01-10T09:19:29.562499"
+        "overall_score": 93.57,
+        "last_success": "2025-01-10T10:19:18.969551"
       }
     }
   ]
