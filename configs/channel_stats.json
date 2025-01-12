@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-12T11:14:11.081274",
+  "timestamp": "2025-01-12T12:32:55.122813",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,39 +36,39 @@
         "total_configs": 40,
         "valid_configs": 24,
         "unique_configs": 24,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.21,
-        "last_success": "2025-01-12T11:13:59.894218"
+        "overall_score": 89.24,
+        "last_success": "2025-01-12T12:32:44.112403"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
+        "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.34,
-        "last_success": "2025-01-12T11:14:00.409401"
+        "overall_score": 94.16,
+        "last_success": "2025-01-12T12:32:44.528869"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
+        "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.45,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.06,
-        "last_success": "2025-01-12T11:14:00.882696"
+        "overall_score": 95.26,
+        "last_success": "2025-01-12T12:32:44.939205"
       }
     },
     {
