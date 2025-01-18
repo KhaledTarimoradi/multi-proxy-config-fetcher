@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-18T12:31:07.409631",
+  "timestamp": "2025-01-18T13:18:13.910645",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 31,
-        "valid_configs": 23,
-        "unique_configs": 23,
-        "avg_response_time": 0.39,
+        "valid_configs": 25,
+        "unique_configs": 25,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.96,
-        "last_success": "2025-01-18T12:31:06.221295"
+        "overall_score": 94.29,
+        "last_success": "2025-01-18T13:18:10.330427"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.49,
+        "avg_response_time": 3.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.1,
-        "last_success": "2025-01-18T12:31:06.743407"
+        "overall_score": 79.16,
+        "last_success": "2025-01-18T13:18:13.473670"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.46,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.15,
-        "last_success": "2025-01-18T12:31:07.229218"
+        "overall_score": 95.29,
+        "last_success": "2025-01-18T13:18:13.862056"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 20,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.48,
-        "last_success": "2025-01-18T12:31:07.407829"
+        "overall_score": 88.68,
+        "last_success": "2025-01-18T13:18:13.909188"
       }
     }
   ]
