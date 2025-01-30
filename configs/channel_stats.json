@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-30T03:19:39.996415",
+  "timestamp": "2025-01-30T04:20:55.635281",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 29,
         "valid_configs": 20,
         "unique_configs": 20,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.69,
-        "last_success": "2025-01-30T03:19:39.067948"
+        "overall_score": 91.48,
+        "last_success": "2025-01-30T04:20:54.495459"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.38,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.15,
-        "last_success": "2025-01-30T03:19:39.482496"
+        "overall_score": 85.34,
+        "last_success": "2025-01-30T04:20:55.045692"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.25,
-        "last_success": "2025-01-30T03:19:39.894521"
+        "overall_score": 95.05,
+        "last_success": "2025-01-30T04:20:55.593092"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 8,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.85,
-        "last_success": "2025-01-30T03:19:39.994209"
+        "overall_score": 99.94,
+        "last_success": "2025-01-30T04:20:55.633248"
       }
     }
   ]
