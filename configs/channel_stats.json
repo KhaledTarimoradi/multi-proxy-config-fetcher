@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-30T01:18:17.894045",
+  "timestamp": "2025-01-30T02:41:21.930485",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 29,
-        "valid_configs": 18,
-        "unique_configs": 18,
-        "avg_response_time": 0.48,
+        "valid_configs": 19,
+        "unique_configs": 19,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.79,
-        "last_success": "2025-01-30T01:18:16.738025"
+        "overall_score": 90.83,
+        "last_success": "2025-01-30T02:41:21.063422"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.52,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.55,
-        "last_success": "2025-01-30T01:18:17.291540"
+        "overall_score": 82.8,
+        "last_success": "2025-01-30T02:41:21.457061"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.06,
-        "last_success": "2025-01-30T01:18:17.829186"
+        "overall_score": 95.3,
+        "last_success": "2025-01-30T02:41:21.838874"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 8,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.91,
-        "last_success": "2025-01-30T01:18:17.892703"
+        "overall_score": 99.87,
+        "last_success": "2025-01-30T02:41:21.928716"
       }
     }
   ]
