@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-02T16:19:49.947324",
+  "timestamp": "2025-02-02T17:14:48.896283",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.96,
-        "last_success": "2025-02-02T16:19:49.128079"
+        "overall_score": 91.71,
+        "last_success": "2025-02-02T17:14:47.725970"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.34,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.93,
-        "last_success": "2025-02-02T16:19:49.505089"
+        "overall_score": 92.28,
+        "last_success": "2025-02-02T17:14:48.280986"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.52,
-        "last_success": "2025-02-02T16:19:49.889308"
+        "overall_score": 96.23,
+        "last_success": "2025-02-02T17:14:48.860433"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.92,
-        "last_success": "2025-02-02T16:19:49.946109"
+        "overall_score": 99.95,
+        "last_success": "2025-02-02T17:14:48.894850"
       }
     }
   ]
