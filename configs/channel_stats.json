@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-12T20:19:30.941233",
+  "timestamp": "2025-02-12T21:16:41.095561",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 18,
         "unique_configs": 18,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.68,
-        "last_success": "2025-02-12T20:19:29.397085"
+        "overall_score": 96.97,
+        "last_success": "2025-02-12T21:16:40.203985"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.67,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.27,
-        "last_success": "2025-02-12T20:19:30.103019"
+        "overall_score": 86.92,
+        "last_success": "2025-02-12T21:16:40.624726"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.66,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.75,
-        "last_success": "2025-02-12T20:19:30.783823"
+        "overall_score": 94.13,
+        "last_success": "2025-02-12T21:16:41.056327"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.77,
-        "last_success": "2025-02-12T20:19:30.939442"
+        "overall_score": 99.95,
+        "last_success": "2025-02-12T21:16:41.094115"
       }
     }
   ]
