@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-14T15:19:12.253504",
+  "timestamp": "2025-02-14T16:20:26.443351",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,25 +36,25 @@
         "total_configs": 41,
         "valid_configs": 28,
         "unique_configs": 28,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.48,
-        "last_success": "2025-02-14T15:19:11.274500"
+        "overall_score": 91.43,
+        "last_success": "2025-02-14T16:20:25.592530"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
+        "total_configs": 18,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.64,
-        "last_success": "2025-02-14T15:19:11.690564"
+        "overall_score": 84.18,
+        "last_success": "2025-02-14T16:20:25.986559"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.02,
-        "last_success": "2025-02-14T15:19:12.193135"
+        "overall_score": 94.23,
+        "last_success": "2025-02-14T16:20:26.348664"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.91,
-        "last_success": "2025-02-14T15:19:12.252053"
+        "overall_score": 99.86,
+        "last_success": "2025-02-14T16:20:26.441831"
       }
     }
   ]
