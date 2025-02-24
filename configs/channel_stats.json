@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-24T19:14:51.900495",
+  "timestamp": "2025-02-24T20:20:28.100274",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
+        "valid_configs": 15,
+        "unique_configs": 15,
         "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.89,
-        "last_success": "2025-02-24T19:14:51.095191"
+        "overall_score": 93.14,
+        "last_success": "2025-02-24T20:20:27.184563"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.36,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.96,
-        "last_success": "2025-02-24T19:14:51.489214"
+        "overall_score": 85.64,
+        "last_success": "2025-02-24T20:20:27.622082"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.31,
-        "last_success": "2025-02-24T19:14:51.862848"
+        "overall_score": 95.21,
+        "last_success": "2025-02-24T20:20:28.060229"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 95.78,
-        "last_success": "2025-02-24T19:14:51.899143"
+        "last_success": "2025-02-24T20:20:28.098482"
       }
     }
   ]
