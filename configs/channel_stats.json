@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-26T06:26:30.846820",
+  "timestamp": "2025-02-26T07:17:34.475011",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 25,
         "valid_configs": 19,
         "unique_configs": 19,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.64,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.17,
-        "last_success": "2025-02-26T06:26:29.649671"
+        "overall_score": 93.04,
+        "last_success": "2025-02-26T07:17:33.531128"
       }
     },
     {
@@ -48,27 +48,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.56,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.83,
-        "last_success": "2025-02-26T06:26:30.237920"
+        "overall_score": 89.7,
+        "last_success": "2025-02-26T07:17:33.951717"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.01,
-        "last_success": "2025-02-26T06:26:30.810374"
+        "overall_score": 94.05,
+        "last_success": "2025-02-26T07:17:34.436017"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 95.78,
-        "last_success": "2025-02-26T06:26:30.845327"
+        "last_success": "2025-02-26T07:17:34.473638"
       }
     }
   ]
