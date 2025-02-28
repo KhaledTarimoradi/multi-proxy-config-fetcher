@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-28T21:16:54.092698",
+  "timestamp": "2025-02-28T22:17:26.263696",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.14,
-        "last_success": "2025-02-28T21:16:53.076255"
+        "overall_score": 93.12,
+        "last_success": "2025-02-28T22:17:25.270421"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.39,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.08,
-        "last_success": "2025-02-28T21:16:53.502573"
+        "overall_score": 89.63,
+        "last_success": "2025-02-28T22:17:25.734425"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.46,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.14,
-        "last_success": "2025-02-28T21:16:53.989397"
+        "overall_score": 95.22,
+        "last_success": "2025-02-28T22:17:26.166270"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.68,
-        "last_success": "2025-02-28T21:16:54.090820"
+        "overall_score": 95.69,
+        "last_success": "2025-02-28T22:17:26.261960"
       }
     }
   ]
