@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-05T18:27:04.743985",
+  "timestamp": "2025-03-05T19:15:15.413391",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 46,
-        "valid_configs": 40,
-        "unique_configs": 38,
-        "avg_response_time": 0.35,
+        "total_configs": 20,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.97,
-        "last_success": "2025-03-05T18:27:03.794338"
+        "overall_score": 92.89,
+        "last_success": "2025-03-05T19:15:14.095067"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.9,
-        "last_success": "2025-03-05T18:27:04.189736"
+        "overall_score": 93.65,
+        "last_success": "2025-03-05T19:15:14.662567"
       }
     },
     {
@@ -62,13 +62,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.42,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.56,
-        "last_success": "2025-03-05T18:27:04.630442"
+        "overall_score": 97.61,
+        "last_success": "2025-03-05T19:15:15.239786"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.67,
-        "last_success": "2025-03-05T18:27:04.742258"
+        "overall_score": 95.58,
+        "last_success": "2025-03-05T19:15:15.411242"
       }
     }
   ]
