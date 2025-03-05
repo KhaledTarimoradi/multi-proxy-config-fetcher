@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-05T08:24:58.030475",
+  "timestamp": "2025-03-05T09:20:20.543556",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.46,
-        "last_success": "2025-03-05T08:24:56.678374"
+        "overall_score": 95.64,
+        "last_success": "2025-03-05T09:20:19.537258"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.54,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.37,
-        "last_success": "2025-03-05T08:24:57.253334"
+        "overall_score": 92.05,
+        "last_success": "2025-03-05T09:20:19.972561"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.58,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.56,
-        "last_success": "2025-03-05T08:24:57.862586"
+        "overall_score": 97.78,
+        "last_success": "2025-03-05T09:20:20.431994"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.59,
-        "last_success": "2025-03-05T08:24:58.028657"
+        "overall_score": 95.67,
+        "last_success": "2025-03-05T09:20:20.541850"
       }
     }
   ]
