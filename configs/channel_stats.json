@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-06T12:37:14.146965",
+  "timestamp": "2025-03-06T13:26:02.749679",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.92,
-        "last_success": "2025-03-06T12:37:13.257072"
+        "overall_score": 91.98,
+        "last_success": "2025-03-06T13:26:01.890721"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 10,
-        "unique_configs": 10,
+        "valid_configs": 11,
+        "unique_configs": 11,
         "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.64,
-        "last_success": "2025-03-06T12:37:13.633943"
+        "overall_score": 88.97,
+        "last_success": "2025-03-06T13:26:02.261657"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.4,
-        "last_success": "2025-03-06T12:37:14.098604"
+        "overall_score": 96.49,
+        "last_success": "2025-03-06T13:26:02.662052"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.77,
-        "last_success": "2025-03-06T12:37:14.145138"
+        "overall_score": 95.71,
+        "last_success": "2025-03-06T13:26:02.747871"
       }
     }
   ]
