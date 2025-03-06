@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-06T02:54:44.882249",
+  "timestamp": "2025-03-06T03:27:29.673127",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.29,
-        "last_success": "2025-03-06T02:54:43.859990"
+        "overall_score": 94.18,
+        "last_success": "2025-03-06T03:27:28.368671"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.41,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.83,
-        "last_success": "2025-03-06T02:54:44.306486"
+        "overall_score": 92.25,
+        "last_success": "2025-03-06T03:27:28.938623"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.78,
-        "last_success": "2025-03-06T02:54:44.771836"
+        "overall_score": 97.63,
+        "last_success": "2025-03-06T03:27:29.502408"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.67,
-        "last_success": "2025-03-06T02:54:44.880883"
+        "overall_score": 95.58,
+        "last_success": "2025-03-06T03:27:29.671567"
       }
     }
   ]
