@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-08T02:29:00.209308",
+  "timestamp": "2025-03-08T03:17:11.641072",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.52,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.21,
-        "last_success": "2025-03-08T02:28:59.185246"
+        "overall_score": 87.99,
+        "last_success": "2025-03-08T03:17:10.726918"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.3,
-        "last_success": "2025-03-08T02:28:59.608093"
+        "overall_score": 88.35,
+        "last_success": "2025-03-08T03:17:11.121229"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.27,
-        "last_success": "2025-03-08T02:29:00.158581"
+        "overall_score": 96.47,
+        "last_success": "2025-03-08T03:17:11.540395"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.76,
-        "last_success": "2025-03-08T02:29:00.207929"
+        "overall_score": 95.69,
+        "last_success": "2025-03-08T03:17:11.639367"
       }
     }
   ]
