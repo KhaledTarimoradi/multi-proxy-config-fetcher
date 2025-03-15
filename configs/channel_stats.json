@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-15T12:33:40.529449",
+  "timestamp": "2025-03-15T13:21:37.274132",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 16,
-        "unique_configs": 16,
-        "avg_response_time": 0.45,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.33,
-        "last_success": "2025-03-15T12:33:39.466006"
+        "overall_score": 91.69,
+        "last_success": "2025-03-15T13:21:35.940212"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.34,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.6,
-        "last_success": "2025-03-15T12:33:39.843202"
+        "overall_score": 94.82,
+        "last_success": "2025-03-15T13:21:36.491007"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.58,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.88,
-        "last_success": "2025-03-15T12:33:40.449375"
+        "overall_score": 92.92,
+        "last_success": "2025-03-15T13:21:37.073011"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.88,
-        "last_success": "2025-03-15T12:33:40.528147"
+        "overall_score": 99.7,
+        "last_success": "2025-03-15T13:21:37.272749"
       }
     }
   ]
