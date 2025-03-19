@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-19T21:17:42.518330",
+  "timestamp": "2025-03-19T22:18:22.317862",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 22,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.97,
-        "last_success": "2025-03-19T21:17:41.661242"
+        "overall_score": 86.75,
+        "last_success": "2025-03-19T22:18:21.110724"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.11,
-        "last_success": "2025-03-19T21:17:42.063405"
+        "overall_score": 90.9,
+        "last_success": "2025-03-19T22:18:21.654827"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.49,
-        "last_success": "2025-03-19T21:17:42.466089"
+        "overall_score": 96.19,
+        "last_success": "2025-03-19T22:18:22.260671"
       }
     },
     {
@@ -81,8 +81,8 @@
         "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.93,
-        "last_success": "2025-03-19T21:17:42.516835"
+        "overall_score": 99.92,
+        "last_success": "2025-03-19T22:18:22.316464"
       }
     }
   ]
