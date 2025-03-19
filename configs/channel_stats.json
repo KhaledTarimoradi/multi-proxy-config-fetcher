@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-19T01:26:13.504562",
+  "timestamp": "2025-03-19T02:57:07.679814",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.58,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.88,
-        "last_success": "2025-03-19T01:26:11.935968"
+        "overall_score": 91.97,
+        "last_success": "2025-03-19T02:57:06.786897"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.83,
-        "last_success": "2025-03-19T01:26:12.526107"
+        "overall_score": 91.13,
+        "last_success": "2025-03-19T02:57:07.180546"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.59,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.95,
-        "last_success": "2025-03-19T01:26:13.139950"
+        "overall_score": 95.2,
+        "last_success": "2025-03-19T02:57:07.626199"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.46,
-        "last_success": "2025-03-19T01:26:13.503053"
+        "overall_score": 99.92,
+        "last_success": "2025-03-19T02:57:07.678275"
       }
     }
   ]
