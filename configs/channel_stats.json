@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-20T19:15:24.006701",
+  "timestamp": "2025-03-20T20:20:32.564778",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.4,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.14,
-        "last_success": "2025-03-20T19:15:23.134112"
+        "overall_score": 91.85,
+        "last_success": "2025-03-20T20:20:31.397413"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.88,
-        "last_success": "2025-03-20T19:15:23.542721"
+        "overall_score": 93.56,
+        "last_success": "2025-03-20T20:20:32.020138"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.91,
-        "last_success": "2025-03-20T19:15:23.917469"
+        "overall_score": 97.72,
+        "last_success": "2025-03-20T20:20:32.524427"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.87,
-        "last_success": "2025-03-20T19:15:24.005082"
+        "overall_score": 99.94,
+        "last_success": "2025-03-20T20:20:32.563371"
       }
     }
   ]
