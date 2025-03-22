@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-22T07:16:57.933407",
+  "timestamp": "2025-03-22T08:22:04.304835",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,25 +36,25 @@
         "total_configs": 27,
         "valid_configs": 21,
         "unique_configs": 21,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.84,
-        "last_success": "2025-03-22T07:16:57.004320"
+        "overall_score": 93.63,
+        "last_success": "2025-03-22T08:22:03.442287"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 17,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.87,
-        "last_success": "2025-03-22T07:16:57.453511"
+        "overall_score": 87.67,
+        "last_success": "2025-03-22T08:22:03.850743"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.51,
-        "last_success": "2025-03-22T07:16:57.841938"
+        "overall_score": 96.48,
+        "last_success": "2025-03-22T08:22:04.258550"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.87,
-        "last_success": "2025-03-22T07:16:57.931606"
+        "overall_score": 99.93,
+        "last_success": "2025-03-22T08:22:04.303460"
       }
     }
   ]
