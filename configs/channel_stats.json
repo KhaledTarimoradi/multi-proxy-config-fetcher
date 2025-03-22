@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-22T06:24:49.543523",
+  "timestamp": "2025-03-22T07:16:57.933407",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 27,
-        "valid_configs": 23,
-        "unique_configs": 23,
-        "avg_response_time": 0.36,
+        "valid_configs": 21,
+        "unique_configs": 21,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.76,
-        "last_success": "2025-03-22T06:24:48.655991"
+        "overall_score": 93.84,
+        "last_success": "2025-03-22T07:16:57.004320"
       }
     },
     {
@@ -48,27 +48,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.37,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.56,
-        "last_success": "2025-03-22T06:24:49.054146"
+        "overall_score": 86.87,
+        "last_success": "2025-03-22T07:16:57.453511"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.88,
-        "last_success": "2025-03-22T06:24:49.452879"
+        "overall_score": 96.51,
+        "last_success": "2025-03-22T07:16:57.841938"
       }
     },
     {
@@ -82,7 +82,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.87,
-        "last_success": "2025-03-22T06:24:49.541661"
+        "last_success": "2025-03-22T07:16:57.931606"
       }
     }
   ]
