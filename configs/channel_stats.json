@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-22T20:19:02.445182",
+  "timestamp": "2025-03-22T21:16:34.079435",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.9,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.15,
-        "last_success": "2025-03-22T20:19:01.588031"
+        "overall_score": 90.54,
+        "last_success": "2025-03-22T21:16:33.224653"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 12,
         "unique_configs": 11,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.06,
-        "last_success": "2025-03-22T20:19:01.959966"
+        "overall_score": 90.03,
+        "last_success": "2025-03-22T21:16:33.610267"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.52,
-        "last_success": "2025-03-22T20:19:02.341586"
+        "overall_score": 96.49,
+        "last_success": "2025-03-22T21:16:34.012753"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.85,
-        "last_success": "2025-03-22T20:19:02.443482"
+        "overall_score": 99.9,
+        "last_success": "2025-03-22T21:16:34.077863"
       }
     }
   ]
