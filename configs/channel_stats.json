@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-24T08:25:58.640630",
+  "timestamp": "2025-03-24T09:21:28.567549",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,25 +36,25 @@
         "total_configs": 20,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.45,
+        "avg_response_time": 1.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.83,
-        "last_success": "2025-03-24T08:25:57.600028"
+        "overall_score": 90.89,
+        "last_success": "2025-03-24T09:21:27.365828"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
-        "valid_configs": 12,
-        "unique_configs": 11,
-        "avg_response_time": 0.42,
+        "total_configs": 16,
+        "valid_configs": 11,
+        "unique_configs": 10,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.94,
-        "last_success": "2025-03-24T08:25:58.051841"
+        "overall_score": 89.07,
+        "last_success": "2025-03-24T09:21:27.961855"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.46,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.15,
-        "last_success": "2025-03-24T08:25:58.535103"
+        "overall_score": 95.01,
+        "last_success": "2025-03-24T09:21:28.533285"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.85,
-        "last_success": "2025-03-24T08:25:58.638612"
+        "overall_score": 99.95,
+        "last_success": "2025-03-24T09:21:28.566097"
       }
     }
   ]
