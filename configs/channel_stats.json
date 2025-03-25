@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-24T23:19:16.421807",
+  "timestamp": "2025-03-25T01:27:20.427979",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.67,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.99,
-        "last_success": "2025-03-24T23:19:15.020029"
+        "overall_score": 91.7,
+        "last_success": "2025-03-25T01:27:19.096424"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 14,
         "unique_configs": 13,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.04,
-        "last_success": "2025-03-24T23:19:15.561894"
+        "overall_score": 92.99,
+        "last_success": "2025-03-25T01:27:19.672842"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.58,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.97,
-        "last_success": "2025-03-24T23:19:16.162415"
+        "overall_score": 94.99,
+        "last_success": "2025-03-25T01:27:20.260588"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.26,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.62,
-        "last_success": "2025-03-24T23:19:16.420221"
+        "overall_score": 99.75,
+        "last_success": "2025-03-25T01:27:20.426435"
       }
     }
   ]
