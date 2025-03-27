@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-27T16:25:13.795180",
+  "timestamp": "2025-03-27T17:17:16.166787",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,25 +36,25 @@
         "total_configs": 20,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.16,
-        "last_success": "2025-03-27T16:25:12.382898"
+        "overall_score": 89.2,
+        "last_success": "2025-03-27T17:17:14.991816"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 13,
+        "total_configs": 18,
+        "valid_configs": 14,
         "unique_configs": 12,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.56,
-        "last_success": "2025-03-27T16:25:12.971364"
+        "overall_score": 90.09,
+        "last_success": "2025-03-27T17:17:15.545031"
       }
     },
     {
@@ -67,8 +67,8 @@
         "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.92,
-        "last_success": "2025-03-27T16:25:13.551031"
+        "overall_score": 92.91,
+        "last_success": "2025-03-27T17:17:16.128854"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.24,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.64,
-        "last_success": "2025-03-27T16:25:13.793229"
+        "overall_score": 99.95,
+        "last_success": "2025-03-27T17:17:16.165459"
       }
     }
   ]
