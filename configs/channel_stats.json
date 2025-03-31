@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-31T10:21:29.659924",
+  "timestamp": "2025-03-31T11:16:21.344827",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 22,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.51,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.01,
-        "last_success": "2025-03-31T10:21:28.244488"
+        "overall_score": 88.01,
+        "last_success": "2025-03-31T11:16:20.387378"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 14,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.94,
-        "last_success": "2025-03-31T10:21:28.833928"
+        "overall_score": 96.15,
+        "last_success": "2025-03-31T11:16:20.833865"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.9,
-        "last_success": "2025-03-31T10:21:29.415836"
+        "overall_score": 94.09,
+        "last_success": "2025-03-31T11:16:21.291429"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.24,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.64,
-        "last_success": "2025-03-31T10:21:29.658193"
+        "overall_score": 99.92,
+        "last_success": "2025-03-31T11:16:21.343481"
       }
     }
   ]
