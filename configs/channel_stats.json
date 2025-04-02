@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-02T18:27:22.702719",
+  "timestamp": "2025-04-02T19:15:47.910607",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,25 +36,25 @@
         "total_configs": 20,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.71,
-        "last_success": "2025-04-02T18:27:21.605885"
+        "overall_score": 90.67,
+        "last_success": "2025-04-02T19:15:46.986427"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 16,
-        "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "total_configs": 18,
+        "valid_configs": 14,
+        "unique_configs": 13,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.81,
-        "last_success": "2025-04-02T18:27:22.059744"
+        "overall_score": 92.1,
+        "last_success": "2025-04-02T19:15:47.388003"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.07,
-        "last_success": "2025-04-02T18:27:22.596242"
+        "overall_score": 95.26,
+        "last_success": "2025-04-02T19:15:47.797328"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.84,
-        "last_success": "2025-04-02T18:27:22.701315"
+        "overall_score": 99.83,
+        "last_success": "2025-04-02T19:15:47.908799"
       }
     }
   ]
