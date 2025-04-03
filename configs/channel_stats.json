@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-03T01:27:06.519064",
+  "timestamp": "2025-04-03T02:59:25.533404",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.66,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.02,
-        "last_success": "2025-04-03T01:27:05.266513"
+        "overall_score": 94.44,
+        "last_success": "2025-04-03T02:59:24.406261"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 8,
-        "unique_configs": 7,
-        "avg_response_time": 0.54,
+        "valid_configs": 10,
+        "unique_configs": 9,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.82,
-        "last_success": "2025-04-03T01:27:05.844021"
+        "overall_score": 86.24,
+        "last_success": "2025-04-03T02:59:25.083767"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.09,
-        "last_success": "2025-04-03T01:27:06.362446"
+        "overall_score": 95.25,
+        "last_success": "2025-04-03T02:59:25.496131"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.77,
-        "last_success": "2025-04-03T01:27:06.517298"
+        "overall_score": 99.95,
+        "last_success": "2025-04-03T02:59:25.532076"
       }
     }
   ]
