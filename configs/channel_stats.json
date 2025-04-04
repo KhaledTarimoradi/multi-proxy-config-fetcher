@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-04T12:38:19.390672",
+  "timestamp": "2025-04-04T13:27:45.385122",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.54,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.8,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.7,
-        "last_success": "2025-04-04T12:38:17.986210"
+        "overall_score": 92.54,
+        "last_success": "2025-04-04T13:27:44.014616"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 15,
-        "unique_configs": 11,
-        "avg_response_time": 0.59,
+        "valid_configs": 16,
+        "unique_configs": 12,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.89,
-        "last_success": "2025-04-04T12:38:18.608922"
+        "overall_score": 92.95,
+        "last_success": "2025-04-04T13:27:44.578656"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.57,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.88,
-        "last_success": "2025-04-04T12:38:19.202524"
+        "overall_score": 93.85,
+        "last_success": "2025-04-04T13:27:45.193605"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.72,
-        "last_success": "2025-04-04T12:38:19.388776"
+        "last_success": "2025-04-04T13:27:45.383510"
       }
     }
   ]
