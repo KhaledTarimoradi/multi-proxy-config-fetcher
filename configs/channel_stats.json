@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-14T16:25:05.416052",
+  "timestamp": "2025-04-14T17:22:45.233020",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -31,51 +31,9 @@
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
-      "enabled": true,
-      "metrics": {
-        "total_configs": 47,
-        "valid_configs": 30,
-        "unique_configs": 30,
-        "avg_response_time": 0.38,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 90.39,
-        "last_success": "2025-04-14T16:24:53.303991"
-      }
-    },
-    {
-      "url": "https://t.me/s/PrivateVPNs",
-      "enabled": true,
-      "metrics": {
-        "total_configs": 19,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 1.08,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 89.16,
-        "last_success": "2025-04-14T16:24:54.419687"
-      }
-    },
-    {
-      "url": "https://t.me/s/freewireguard",
-      "enabled": true,
-      "metrics": {
-        "total_configs": 16,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.85,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 97.17,
-        "last_success": "2025-04-14T16:24:55.290891"
-      }
-    },
-    {
-      "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
       "enabled": false,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 0,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -83,6 +41,48 @@
         "fail_count": 1,
         "overall_score": 15.0,
         "last_success": null
+      }
+    },
+    {
+      "url": "https://t.me/s/PrivateVPNs",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 19,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 61.66,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 79.74,
+        "last_success": "2025-04-14T17:21:42.266303"
+      }
+    },
+    {
+      "url": "https://t.me/s/freewireguard",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 15,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 62.65,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 85.0,
+        "last_success": "2025-04-14T17:22:45.029965"
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 6,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.2,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 99.7,
+        "last_success": "2025-04-14T17:22:45.231203"
       }
     }
   ]
