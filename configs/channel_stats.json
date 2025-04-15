@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-15T22:18:53.097175",
+  "timestamp": "2025-04-15T23:18:36.299855",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 1.28,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.33,
-        "last_success": "2025-04-15T22:18:52.109333"
+        "overall_score": 92.86,
+        "last_success": "2025-04-15T23:18:33.921953"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 20,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.42,
+        "avg_response_time": 1.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.63,
-        "last_success": "2025-04-15T22:18:52.556412"
+        "overall_score": 88.88,
+        "last_success": "2025-04-15T23:18:35.532155"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 15,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.39,
-        "last_success": "2025-04-15T22:18:52.989523"
+        "overall_score": 99.29,
+        "last_success": "2025-04-15T23:18:36.032213"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.26,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.84,
-        "last_success": "2025-04-15T22:18:53.095340"
+        "overall_score": 99.6,
+        "last_success": "2025-04-15T23:18:36.298086"
       }
     }
   ]
