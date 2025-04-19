@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-19T12:34:46.740206",
+  "timestamp": "2025-04-19T13:24:38.780566",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.91,
+        "avg_response_time": 1.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.89,
-        "last_success": "2025-04-19T12:34:42.498575"
+        "overall_score": 94.59,
+        "last_success": "2025-04-19T13:24:36.577204"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 1.14,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 1.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.54,
-        "last_success": "2025-04-19T12:34:43.669153"
+        "overall_score": 83.14,
+        "last_success": "2025-04-19T13:24:37.845167"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 2.94,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.64,
-        "last_success": "2025-04-19T12:34:46.638574"
+        "overall_score": 96.18,
+        "last_success": "2025-04-19T13:24:38.456209"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.85,
-        "last_success": "2025-04-19T12:34:46.738481"
+        "overall_score": 99.52,
+        "last_success": "2025-04-19T13:24:38.779006"
       }
     }
   ]
