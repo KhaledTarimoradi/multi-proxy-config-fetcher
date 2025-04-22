@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-22T20:22:13.389342",
+  "timestamp": "2025-04-22T21:18:22.660732",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.73,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.1,
-        "last_success": "2025-04-22T20:22:10.755880"
+        "overall_score": 93.91,
+        "last_success": "2025-04-22T21:18:21.163190"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 1.26,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.11,
-        "last_success": "2025-04-22T20:22:12.044756"
+        "overall_score": 83.01,
+        "last_success": "2025-04-22T21:18:21.685416"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 1.22,
+        "avg_response_time": 0.84,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.01,
-        "last_success": "2025-04-22T20:22:13.285069"
+        "overall_score": 94.58,
+        "last_success": "2025-04-22T21:18:22.549101"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.85,
-        "last_success": "2025-04-22T20:22:13.387899"
+        "overall_score": 99.84,
+        "last_success": "2025-04-22T21:18:22.659188"
       }
     }
   ]
