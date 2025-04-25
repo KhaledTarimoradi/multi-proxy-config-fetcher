@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-25T20:21:57.201266",
+  "timestamp": "2025-04-25T21:18:44.396594",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 24,
         "valid_configs": 19,
         "unique_configs": 19,
-        "avg_response_time": 0.42,
+        "avg_response_time": 1.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.17,
-        "last_success": "2025-04-25T20:21:55.620403"
+        "overall_score": 92.71,
+        "last_success": "2025-04-25T21:18:43.037843"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 14,
-        "valid_configs": 6,
-        "unique_configs": 6,
-        "avg_response_time": 1.04,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.89,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.16,
-        "last_success": "2025-04-25T20:21:56.699357"
+        "overall_score": 87.95,
+        "last_success": "2025-04-25T21:18:43.965832"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.1,
-        "last_success": "2025-04-25T20:21:57.151369"
+        "overall_score": 94.22,
+        "last_success": "2025-04-25T21:18:44.336064"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.93,
-        "last_success": "2025-04-25T20:21:57.199604"
+        "overall_score": 99.91,
+        "last_success": "2025-04-25T21:18:44.395130"
       }
     }
   ]
