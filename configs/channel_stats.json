@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-25T06:28:26.221524",
+  "timestamp": "2025-04-25T07:19:33.350064",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.78,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.71,
-        "last_success": "2025-04-25T06:28:24.546757"
+        "overall_score": 95.08,
+        "last_success": "2025-04-25T07:19:30.538828"
       }
     },
     {
@@ -50,25 +50,25 @@
         "total_configs": 14,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 1.03,
+        "avg_response_time": 1.78,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.74,
-        "last_success": "2025-04-25T06:28:25.615023"
+        "overall_score": 86.62,
+        "last_success": "2025-04-25T07:19:32.352803"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.86,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.02,
-        "last_success": "2025-04-25T06:28:26.183931"
+        "overall_score": 93.45,
+        "last_success": "2025-04-25T07:19:33.233562"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.95,
-        "last_success": "2025-04-25T06:28:26.220234"
+        "overall_score": 99.83,
+        "last_success": "2025-04-25T07:19:33.348192"
       }
     }
   ]
