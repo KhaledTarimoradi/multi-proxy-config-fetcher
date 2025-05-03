@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-03T04:23:05.483384",
+  "timestamp": "2025-05-03T05:19:48.116249",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 0.34,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.74,
-        "last_success": "2025-05-03T04:23:04.666277"
+        "overall_score": 94.41,
+        "last_success": "2025-05-03T05:19:47.173227"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 20,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.52,
-        "last_success": "2025-05-03T04:23:05.018143"
+        "overall_score": 84.41,
+        "last_success": "2025-05-03T05:19:47.601209"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.57,
-        "last_success": "2025-05-03T04:23:05.368183"
+        "overall_score": 96.47,
+        "last_success": "2025-05-03T05:19:48.017089"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.83,
-        "last_success": "2025-05-03T04:23:05.481676"
+        "overall_score": 99.85,
+        "last_success": "2025-05-03T05:19:48.114988"
       }
     }
   ]
