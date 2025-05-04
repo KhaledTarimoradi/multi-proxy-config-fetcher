@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-04T09:18:58.402405",
+  "timestamp": "2025-05-04T10:19:25.285978",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 25,
-        "valid_configs": 19,
-        "unique_configs": 19,
-        "avg_response_time": 0.39,
+        "valid_configs": 20,
+        "unique_configs": 20,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.42,
-        "last_success": "2025-05-04T09:18:57.371585"
+        "overall_score": 94.21,
+        "last_success": "2025-05-04T10:19:23.994788"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 20,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.4,
-        "last_success": "2025-05-04T09:18:57.797071"
+        "overall_score": 89.23,
+        "last_success": "2025-05-04T10:19:24.542619"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.15,
-        "last_success": "2025-05-04T09:18:58.208796"
+        "overall_score": 93.96,
+        "last_success": "2025-05-04T10:19:25.085779"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.71,
-        "last_success": "2025-05-04T09:18:58.401183"
+        "overall_score": 99.7,
+        "last_success": "2025-05-04T10:19:25.284134"
       }
     }
   ]
