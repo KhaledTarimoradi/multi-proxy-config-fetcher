@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-14T16:26:18.735697",
+  "timestamp": "2025-05-14T17:18:09.409925",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 42,
-        "valid_configs": 24,
-        "unique_configs": 24,
-        "avg_response_time": 0.34,
+        "valid_configs": 23,
+        "unique_configs": 23,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.77,
-        "last_success": "2025-05-14T16:26:07.896835"
+        "overall_score": 88.19,
+        "last_success": "2025-05-14T17:17:58.571368"
       }
     },
     {
@@ -50,25 +50,25 @@
         "total_configs": 20,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.26,
-        "last_success": "2025-05-14T16:26:08.253670"
+        "overall_score": 88.27,
+        "last_success": "2025-05-14T17:17:58.924151"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
+        "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
         "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.21,
-        "last_success": "2025-05-14T16:26:08.629587"
+        "overall_score": 95.3,
+        "last_success": "2025-05-14T17:17:59.300991"
       }
     },
     {
