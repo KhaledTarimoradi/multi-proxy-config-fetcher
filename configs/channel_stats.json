@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-21T21:18:34.463125",
+  "timestamp": "2025-05-21T22:19:19.553952",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.43,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.86,
-        "last_success": "2025-05-21T21:18:33.295856"
+        "overall_score": 85.67,
+        "last_success": "2025-05-21T22:19:18.581710"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 16,
         "unique_configs": 11,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.55,
-        "last_success": "2025-05-21T21:18:33.757675"
+        "overall_score": 91.61,
+        "last_success": "2025-05-21T22:19:19.002617"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.2,
-        "last_success": "2025-05-21T21:18:34.207115"
+        "overall_score": 95.23,
+        "last_success": "2025-05-21T22:19:19.429516"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.25,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.62,
-        "last_success": "2025-05-21T21:18:34.461383"
+        "overall_score": 99.82,
+        "last_success": "2025-05-21T22:19:19.552130"
       }
     }
   ]
