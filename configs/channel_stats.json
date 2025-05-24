@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-24T06:26:41.235823",
+  "timestamp": "2025-05-24T07:17:48.277798",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.38,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.94,
-        "last_success": "2025-05-24T06:26:40.310727"
+        "overall_score": 90.47,
+        "last_success": "2025-05-24T07:17:47.157914"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 16,
         "unique_configs": 10,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.98,
-        "last_success": "2025-05-24T06:26:40.777995"
+        "overall_score": 89.88,
+        "last_success": "2025-05-24T07:17:47.691071"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.24,
-        "last_success": "2025-05-24T06:26:41.196997"
+        "overall_score": 95.07,
+        "last_success": "2025-05-24T07:17:48.222262"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.95,
-        "last_success": "2025-05-24T06:26:41.234421"
+        "overall_score": 99.92,
+        "last_success": "2025-05-24T07:17:48.276208"
       }
     }
   ]
