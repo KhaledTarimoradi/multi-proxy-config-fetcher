@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-04T03:16:41.813124",
+  "timestamp": "2025-06-04T04:27:46.398893",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 16,
-        "unique_configs": 16,
-        "avg_response_time": 0.41,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.39,
-        "last_success": "2025-06-04T03:16:40.720238"
+        "overall_score": 93.17,
+        "last_success": "2025-06-04T04:27:45.506415"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.49,
-        "last_success": "2025-06-04T03:16:41.220631"
+        "overall_score": 91.62,
+        "last_success": "2025-06-04T04:27:45.918602"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.21,
-        "last_success": "2025-06-04T03:16:41.661471"
+        "overall_score": 95.26,
+        "last_success": "2025-06-04T04:27:46.326977"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.78,
-        "last_success": "2025-06-04T03:16:41.811263"
+        "overall_score": 99.9,
+        "last_success": "2025-06-04T04:27:46.397377"
       }
     }
   ]
