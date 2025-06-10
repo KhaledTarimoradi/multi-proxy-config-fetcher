@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-10T19:16:19.130259",
+  "timestamp": "2025-06-10T20:23:15.032648",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.11,
-        "last_success": "2025-06-10T19:16:18.099227"
+        "overall_score": 92.97,
+        "last_success": "2025-06-10T20:23:13.663126"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 12,
-        "unique_configs": 11,
-        "avg_response_time": 0.4,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.06,
-        "last_success": "2025-06-10T19:16:18.540485"
+        "overall_score": 89.82,
+        "last_success": "2025-06-10T20:23:14.232605"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.79,
-        "last_success": "2025-06-10T19:16:18.998181"
+        "overall_score": 97.61,
+        "last_success": "2025-06-10T20:23:14.811719"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.81,
-        "last_success": "2025-06-10T19:16:19.128324"
+        "overall_score": 99.67,
+        "last_success": "2025-06-10T20:23:15.030697"
       }
     }
   ]
