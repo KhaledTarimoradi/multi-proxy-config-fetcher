@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-10T10:22:33.684949",
+  "timestamp": "2025-06-10T11:18:12.933100",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.36,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.46,
-        "last_success": "2025-06-10T10:22:32.763418"
+        "overall_score": 88.11,
+        "last_success": "2025-06-10T11:18:11.826522"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 12,
         "unique_configs": 11,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.06,
-        "last_success": "2025-06-10T10:22:33.145894"
+        "overall_score": 88.9,
+        "last_success": "2025-06-10T11:18:12.313866"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.85,
-        "last_success": "2025-06-10T10:22:33.560599"
+        "overall_score": 97.79,
+        "last_success": "2025-06-10T11:18:12.772134"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.82,
-        "last_success": "2025-06-10T10:22:33.683453"
+        "overall_score": 99.76,
+        "last_success": "2025-06-10T11:18:12.931630"
       }
     }
   ]
