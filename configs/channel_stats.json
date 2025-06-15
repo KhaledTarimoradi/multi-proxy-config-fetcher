@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-15T07:18:54.193365",
+  "timestamp": "2025-06-15T08:24:30.647971",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,25 +36,25 @@
         "total_configs": 20,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.91,
-        "last_success": "2025-06-15T07:18:53.235572"
+        "overall_score": 91.9,
+        "last_success": "2025-06-15T08:24:29.669291"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 16,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.47,
-        "last_success": "2025-06-15T07:18:53.658359"
+        "overall_score": 94.72,
+        "last_success": "2025-06-15T08:24:30.106337"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 7,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.42,
-        "last_success": "2025-06-15T07:18:54.072971"
+        "overall_score": 99.44,
+        "last_success": "2025-06-15T08:24:30.508825"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.82,
-        "last_success": "2025-06-15T07:18:54.192134"
+        "overall_score": 99.8,
+        "last_success": "2025-06-15T08:24:30.646116"
       }
     }
   ]
