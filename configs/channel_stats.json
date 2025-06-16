@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-16T19:16:16.160124",
+  "timestamp": "2025-06-16T20:22:57.941578",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,25 +36,25 @@
         "total_configs": 20,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.85,
-        "last_success": "2025-06-16T19:16:15.009326"
+        "overall_score": 91.7,
+        "last_success": "2025-06-16T20:22:56.555508"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 16,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.4,
-        "last_success": "2025-06-16T19:16:15.484486"
+        "overall_score": 94.53,
+        "last_success": "2025-06-16T20:22:57.111539"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 8,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.28,
-        "last_success": "2025-06-16T19:16:15.992724"
+        "overall_score": 99.08,
+        "last_success": "2025-06-16T20:22:57.750859"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.75,
-        "last_success": "2025-06-16T19:16:16.158271"
+        "overall_score": 99.72,
+        "last_success": "2025-06-16T20:22:57.939806"
       }
     }
   ]
