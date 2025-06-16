@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-16T07:21:50.390990",
+  "timestamp": "2025-06-16T08:29:38.890905",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,39 +36,39 @@
         "total_configs": 25,
         "valid_configs": 21,
         "unique_configs": 21,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.49,
-        "last_success": "2025-06-16T07:21:49.542735"
+        "overall_score": 95.5,
+        "last_success": "2025-06-16T08:29:38.026906"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 18,
         "valid_configs": 11,
         "unique_configs": 11,
         "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.68,
-        "last_success": "2025-06-16T07:21:49.916566"
+        "overall_score": 89.77,
+        "last_success": "2025-06-16T08:29:38.402608"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 9,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.34,
+        "total_configs": 8,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.5,
-        "last_success": "2025-06-16T07:21:50.279079"
+        "last_success": "2025-06-16T08:29:38.762934"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.84,
-        "last_success": "2025-06-16T07:21:50.389025"
+        "overall_score": 99.81,
+        "last_success": "2025-06-16T08:29:38.889473"
       }
     }
   ]
