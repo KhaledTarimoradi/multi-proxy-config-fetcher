@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-18T15:23:30.395149",
+  "timestamp": "2025-06-18T16:27:15.320236",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.93,
-        "last_success": "2025-06-18T15:23:29.039786"
+        "overall_score": 93.15,
+        "last_success": "2025-06-18T16:27:14.420300"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.52,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.33,
-        "last_success": "2025-06-18T15:23:29.593011"
+        "overall_score": 86.92,
+        "last_success": "2025-06-18T16:27:14.843671"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 9,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.57,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.14,
-        "last_success": "2025-06-18T15:23:30.191690"
+        "overall_score": 99.38,
+        "last_success": "2025-06-18T16:27:15.282695"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.7,
-        "last_success": "2025-06-18T15:23:30.393515"
+        "overall_score": 99.95,
+        "last_success": "2025-06-18T16:27:15.318691"
       }
     }
   ]
