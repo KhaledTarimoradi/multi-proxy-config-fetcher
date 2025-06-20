@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-20T22:19:24.753539",
+  "timestamp": "2025-06-20T23:20:03.904730",
   "channels": [
     {
       "url": "https://https://raw.githubusercontent.com/azadiazinjamigzare/Service/main/Sub#azadiazinjamigzare",
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.38,
-        "last_success": "2025-06-20T22:19:23.701769"
+        "overall_score": 89.47,
+        "last_success": "2025-06-20T23:20:03.099494"
       }
     },
     {
@@ -48,13 +48,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.4,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.65,
-        "last_success": "2025-06-20T22:19:24.134702"
+        "overall_score": 89.51,
+        "last_success": "2025-06-20T23:20:03.454015"
       }
     },
     {
@@ -64,11 +64,11 @@
         "total_configs": 14,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.4,
-        "last_success": "2025-06-20T22:19:24.563850"
+        "overall_score": 99.51,
+        "last_success": "2025-06-20T23:20:03.805450"
       }
     },
     {
@@ -78,11 +78,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.72,
-        "last_success": "2025-06-20T22:19:24.751803"
+        "overall_score": 99.86,
+        "last_success": "2025-06-20T23:20:03.902821"
       }
     }
   ]
