@@ -164,7 +164,7 @@ vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=%2F%40proNG1%
 
 vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq.chile1.09vpn.com#%3E%3E%40shadowproxy66%3A%3ACL
 
-vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐤
+vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐻
 
 vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐣
 
@@ -330,13 +330,9 @@ trojan://3723507166611775488@35.155.4.93:443?security=tls&headerType=none&type=t
 
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
-
-trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443?security=tls#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.5ms
 
 trojan://bcbaaac-abac-abca-dcba-bcaabcbbccaa@127.0.0.1:8080?security=tls&headerType=&type=tcp#meli_proxyy
 
@@ -447,6 +443,10 @@ vmess://ewogICAgImFkZCI6ICJGRkZnZ0doWVVpLjY2NjQ2MS54WVoiLAogICAgImFpZCI6IDAsCiAg
 vmess://ewogICAgImFkZCI6ICJiYW90YS5tZSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzLmZyZWV5eWRzLmRwZG5zLm9yZyIsCiAgICAiaWQiOiAiMmYzOGY4NDgtYTg5OS00Yzg3LTk4MDctMjA3YTQxNjE1ZTNjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JvbmdzZXZlbj9lZD0yMDQ4IiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNTUuMTcyLTA2MjQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
 vmess://ewogICAgImFkZCI6ICJzc3Nzc3NzeHh4eC4yMDMyLnBwLnVhIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic3Nzc3Nzc3h4eHguMjAzMi5wcC51YSIsCiAgICAiaWQiOiAiNDE3NGI5NWQtMTE1ZS00ZDM5LWFkZDYtMWY4ZGI5NWJiODYwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLzZXZTNVOURmMVdHeGdGbm9GUHcxIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuMzAuMTY3LTUxNTciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzc3Nzc3NzeHh4eC4yMDMyLnBwLnVhIgp9
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogImNzZ28uY29tIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiNjc4MjhhNmUtMDE0NC00ZTU3LTgxNjktMjQ0N2EzZGQyZTYxIiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogIiIsICJwYXRoIjogIi9wcm9maWxlL3RlbGVncmFtQHNzcnN1YiIsICJob3N0IjogImNkbi1ub2RlLW9zcy05OS5wYW9mdS5kZSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlXHUwMGFlXHVmZTBmQ3lwcnVzXHUwMGE5XHVmZTBmS1x1MDBlMXRvIExha2F0XHUwMGUxbWVpYVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6OC41N21zIn0=
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInNzcnN1Yi5jbG91ZGZsYXJlLjE4MjY4Mi54eXoiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI2NzgyOGE2ZS0wMTQ0LTRlNTctODE2OS0yNDQ3YTNkZDJlNjEiLCAidHlwZSI6ICIiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAiIiwgInBhdGgiOiAiL3Byb2ZpbGUvdGVsZWdyYW1Ac3Nyc3ViIiwgImhvc3QiOiAiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo4Ljc4bXMifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOC4yMTEuMTQ1LjE0NiIsInBvcnQiOiIyMzg5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjlmOWYzOTViLWU5YjItNGNmZC04NWIzLTA0MjVmMGUxMWFkNyIsInNuaSI6IiJ9
 
